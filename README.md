@@ -5,7 +5,8 @@
 3. 然後下載Craft
 4. Craft Manager打開後，啟動Library
 5. 打開`.sketch`檔案
-6. 按`cmd+P`
+6. 按`cmd+P`打開craft控制面板
+7. import library選擇`iOS UI design.library`資料夾
 
 ## How to use craft lib
 
@@ -19,7 +20,8 @@ download `zip` file of this repos...
 * UI views
 * UI Actions
 * iOS color
-* text
+* text color
+* 
 
 
 ## 碎碎念
